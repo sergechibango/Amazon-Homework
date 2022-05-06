@@ -1,7 +1,7 @@
 # Amazon-Homework
 
-https://github.com/sergechibango/Amazon-Homework/blob/main/Mounted%20EBS.PNG
-
+## Mounted EBS
 ![Mounted EBS Volume](mounted_ebs.PNG)
 
+## Website directory
 ![website directory](pwd.PNG)
